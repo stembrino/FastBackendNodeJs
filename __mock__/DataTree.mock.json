@@ -1,0 +1,1046 @@
+{
+    "nodes": [
+      {
+        "id": 0,
+        "name": "Toolboxes",
+        "cspName": "",
+        "type": "TOOLBOXES",
+        "children": [
+          {
+            "id": 23,
+            "name": "Common Components",
+            "cspName": "",
+            "type": "TOOLBOX",
+            "children": []
+          },
+          {
+            "id": 22,
+            "name": "Common PM RCA Template",
+            "cspName": "",
+            "type": "TOOLBOX",
+            "children": []
+          },
+          {
+            "id": 21,
+            "name": "Common PM Rule Template",
+            "cspName": "",
+            "type": "TOOLBOX",
+            "children": []
+          }         
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Packages",
+        "cspName": "",
+        "type": "PACKAGES",
+        "children": [
+          {
+            "id": 36,
+            "name": "3G ROBOT",
+            "type": "PACKAGE",
+            "children": [
+              {
+                "id": 37,
+                "name": "3G ROBOT Area",
+                "cspName": "",
+                "type": "SERVICE_CLASS",
+                "children": [
+                  {
+                    "id": 37,
+                    "name": "Service Instances",
+                    "cspName": "",
+                    "type": "SERVICE_INSTANCES",
+                    "children": []
+                  },
+                  {
+                    "id": 37,
+                    "name": "Tasks",
+                    "cspName": "",
+                    "type": "TASKS",
+                    "children": []
+                  },
+                  {
+                    "id": 37,
+                    "name": "Rules",
+                    "cspName": "",
+                    "type": "RULES",
+                    "children": [
+                      {
+                        "id": 185,
+                        "name": "Call Setup Accessibility",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 186,
+                        "name": "Cell Availability",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 187,
+                        "name": "HSDPA Accessibility",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 188,
+                        "name": "HSDPA Availability",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 189,
+                        "name": "HSDPA CS Voice Accessibility",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 190,
+                        "name": "HSDPA CS Voice Retainability",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 191,
+                        "name": "HSDPA MAC-hs Efficiency",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 192,
+                        "name": "HSDPA Mobility",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 193,
+                        "name": "HSDPA Retainability",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 194,
+                        "name": "HSDPA Throughput",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 195,
+                        "name": "HSUPA Accessibility",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 196,
+                        "name": "HSUPA Availability",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 197,
+                        "name": "HSUPA CS Voice Accessibility",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 198,
+                        "name": "HSUPA CS Voice Retainability",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 199,
+                        "name": "HSUPA MAC-es Block Error Rate",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 200,
+                        "name": "HSUPA Mobility",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 201,
+                        "name": "HSUPA Retainability",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 202,
+                        "name": "ISHO NRT Success Ratio",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 203,
+                        "name": "ISHO RT Success Ratio",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 204,
+                        "name": "Iu Availability",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 205,
+                        "name": "Number of Cells",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 206,
+                        "name": "Packet Session Setup",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 207,
+                        "name": "RAB CS Accessibility",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 208,
+                        "name": "RAB CS Attempts",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 209,
+                        "name": "RAB CS Retainability",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 210,
+                        "name": "RAB PS Accessibility",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 211,
+                        "name": "RAB PS Attempts",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 212,
+                        "name": "RAB PS Retainability",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 214,
+                        "name": "RNC Availability",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 215,
+                        "name": "RRC Accessibility",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 216,
+                        "name": "RRC Attempts",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 217,
+                        "name": "RRC Retainability",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 213,
+                        "name": "Registration Accessibility",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 218,
+                        "name": "Soft Handover NRT Success Ratio",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 219,
+                        "name": "Traffic Voice Erlang",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 220,
+                        "name": "Voice Radio Bearers Downlink BLER",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 221,
+                        "name": "Voice Radio Bearers Uplink BLER",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": 38,
+                "name": "3G ROBOT Site",
+                "cspName": "",
+                "type": "SERVICE_CLASS",
+                "children": [
+                  {
+                    "id": 38,
+                    "name": "Service Instances",
+                    "cspName": "",
+                    "type": "SERVICE_INSTANCES",
+                    "children": []
+                  },
+                  {
+                    "id": 38,
+                    "name": "Tasks",
+                    "cspName": "",
+                    "type": "TASKS",
+                    "children": []
+                  },
+                  {
+                    "id": 38,
+                    "name": "Rules",
+                    "cspName": "",
+                    "type": "RULES",
+                    "children": [
+                      {
+                        "id": 222,
+                        "name": "Bulk Rule",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 223,
+                        "name": "Call Setup Accessibility",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 224,
+                        "name": "Cell Availability",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 226,
+                        "name": "HSDPA Accessibility",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 227,
+                        "name": "HSDPA CS Voice Accessibility",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 228,
+                        "name": "HSDPA CS Voice Retainability",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 229,
+                        "name": "HSDPA MAC-hs Efficiency",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 230,
+                        "name": "HSDPA Mobility",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 231,
+                        "name": "HSDPA Retainability",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 232,
+                        "name": "HSDPA Throughput",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 233,
+                        "name": "HSUPA Accessibility",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 234,
+                        "name": "HSUPA CS Voice Accessibility",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 235,
+                        "name": "HSUPA CS Voice Frame Discard Ratio Jitter",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 236,
+                        "name": "HSUPA CS Voice Retainability",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 237,
+                        "name": "HSUPA MAC-es Block Error Rate",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 238,
+                        "name": "HSUPA Mobility",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 239,
+                        "name": "HSUPA Retainability",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 225,
+                        "name": "High PRX Noise",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 241,
+                        "name": "ISHO NRT Success Ratio",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 242,
+                        "name": "ISHO RT Success Ratio",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 240,
+                        "name": "Inactive Cell",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 243,
+                        "name": "Low PRX Noise",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 244,
+                        "name": "Packet Session Setup",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 245,
+                        "name": "RAB Attempts",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 246,
+                        "name": "RAB CS Accessibility",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 247,
+                        "name": "RAB CS Retainability",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 248,
+                        "name": "RAB PS Accessibility",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 249,
+                        "name": "RAB PS Retainability",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 251,
+                        "name": "RRC Accessibility",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 252,
+                        "name": "RRC Attempts",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 253,
+                        "name": "RRC Retainability",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 250,
+                        "name": "Registration Accessibility",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 254,
+                        "name": "Soft Handover NRT Success Ratio",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      },
+                      {
+                        "id": 255,
+                        "name": "Voice Radio Bearers Downlink BLER",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": 40,
+                "name": "ADMINISTRATION",
+                "cspName": "",
+                "type": "SERVICE_CLASS",
+                "children": [
+                  {
+                    "id": 40,
+                    "name": "Service Instances",
+                    "cspName": "",
+                    "type": "SERVICE_INSTANCES",
+                    "children": []
+                  },
+                  {
+                    "id": 40,
+                    "name": "Tasks",
+                    "cspName": "",
+                    "type": "TASKS",
+                    "children": []
+                  },
+                  {
+                    "id": 40,
+                    "name": "Rules",
+                    "cspName": "",
+                    "type": "RULES",
+                    "children": [
+                      {
+                        "id": 256,
+                        "name": "CM Notifier Listener",
+                        "cspName": "",
+                        "type": "RULE",
+                        "data": {
+                          "active": true,
+                          "template": false,
+                          "templateReview": false
+                        },
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "id": 39,
+                "name": "SGSN",
+                "cspName": "",
+                "type": "SERVICE_CLASS",
+                "children": [
+                  {
+                    "id": 39,
+                    "name": "Service Instances",
+                    "cspName": "",
+                    "type": "SERVICE_INSTANCES",
+                    "children": []
+                  },
+                  {
+                    "id": 39,
+                    "name": "Tasks",
+                    "cspName": "",
+                    "type": "TASKS",
+                    "children": []
+                  },
+                  {
+                    "id": 39,
+                    "name": "Rules",
+                    "cspName": "",
+                    "type": "RULES",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }     
+        ]
+      },
+      {
+        "id": 0,
+        "name": "Parameter sets",
+        "cspName": "",
+        "type": "PARAMETER_SETS",
+        "children": [
+          {
+            "id": 42,
+            "name": "New Parameter set",
+            "cspName": "",
+            "type": "PARAMETER_SET",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
