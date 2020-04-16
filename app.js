@@ -4,6 +4,7 @@ const bodyParser = require('body-parser');
 const cors = require('cors');
 const DATA_TREE = require('./__mock__/DataTree.mock.json');
 const PORT = 3001
+const TIME = 1500
 app.use(bodyParser.json());
 
 //support parsing of application/x-www-form-urlencoded post data
@@ -13,8 +14,7 @@ app.use(cors())
 
 
 app.post('/modeling', (req, res) => {
-    
-    res.json(DATA_TREE);
+    setTimeout(()=>res.json(DATA_TREE), TIME);    
 })
 
 app.listen(process.env.PORT || PORT, ()=>{
